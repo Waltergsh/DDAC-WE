@@ -49,7 +49,7 @@ body { padding-top: 65px; }
 }
 
 .overflow-box{
-	height: 450px;
+	height: 400px;
 	overflow-x: hidden;
 	overflow-y: auto;
 }
